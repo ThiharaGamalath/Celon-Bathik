@@ -49,21 +49,7 @@ This project is built with:
 💨 Tailwind CSS
  – Utility-first CSS framework
 
-📂 Project Structure
-├── public/                # Static assets
-├── src/
-│   ├── components/        # Reusable UI components
-│   ├── pages/             # Application pages
-│   ├── hooks/             # Custom React hooks
-│   ├── lib/               # Utility functions and helpers
-│   ├── styles/            # Global styles and Tailwind setup
-│   ├── App.tsx            # Root component
-│   └── main.tsx           # Entry point
-├── index.html             # HTML template
-├── package.json           # Dependencies and scripts
-├── tsconfig.json          # TypeScript configuration
-├── tailwind.config.js     # Tailwind configuration
-└── vite.config.ts         # Vite configuration
+
 
 📖 Scripts
 
