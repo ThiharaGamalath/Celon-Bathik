@@ -23,21 +23,12 @@ This project is designed for fast development, clean UI, and scalable architectu
 
 Follow these steps to set up the project locally:
 
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+
 npm run dev
 
 
-The app will be available at http://localhost:5173
- by default.
 
 🛠️ Technologies Used
 
@@ -83,24 +74,7 @@ npm run build     # Build the project for production
 npm run preview   # Preview the production build
 npm run lint      # Run linter (if ESLint is set up)
 
-🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-To contribute:
-
-Fork the repo
-
-Create your feature branch: git checkout -b feature/my-feature
-
-Commit your changes: git commit -m 'Add new feature'
-
-Push to the branch: git push origin feature/my-feature
-
-Open a Pull Request
-
-📜 License
-
-This project is licensed under the MIT License
 .
 
 🌟 Acknowledgements
