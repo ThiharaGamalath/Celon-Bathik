@@ -56,9 +56,13 @@ This project is built with:
 Useful commands to run during development:
 
 npm run dev       # Start development server
+
 npm run build     # Build the project for production
+
 npm run preview   # Preview the production build
+
 npm run lint      # Run linter (if ESLint is set up)
+
 
 
 .
